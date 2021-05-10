@@ -1,5 +1,6 @@
 
 # Desafio Final Imersão Dados
+[!Logo Alura ]https://github.com/angelsoalmeida/imersao-dados-desafio-final/blob/main/imersao_dados.png
 
 Desafio referente as aulas de Imersão de Dados da Alura realizada em 5 aulas de 03/05/2021 á 07/05/2021.
 
